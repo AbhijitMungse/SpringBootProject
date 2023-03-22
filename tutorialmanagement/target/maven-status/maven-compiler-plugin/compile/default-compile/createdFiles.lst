@@ -1,0 +1,5 @@
+edu\tutorial\entity\Tutorial$TutorialBuilder.class
+edu\tutorial\entity\Tutorial.class
+edu\tutorial\TutorialmanagementApplication.class
+edu\tutorial\controller\TutorialController.class
+edu\tutorial\repository\TutorialRepository.class
